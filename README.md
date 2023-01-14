@@ -1,2 +1,2 @@
-# jsChellange
+# jsChallenge
 Java Script DOM Challenge 
