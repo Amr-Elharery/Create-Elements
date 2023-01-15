@@ -5,7 +5,7 @@ let mySelect = document.querySelector("select");
 let mySub = document.querySelector("[name = 'create']");
 let res = document.querySelector(".results");
 
-document.body.style = "height:100vh;display:flex;align-items:center;justify-content:center;";
+document.body.style = "min-height:100vh;display:flex;align-items:center;justify-content:center;";
 myForm.style = "width:80%;display:flex;align-items:center;justify-content:center;flex-direction:column;";
 myInpNum.style.display = "block";
 myInpText.style.display = "block";
